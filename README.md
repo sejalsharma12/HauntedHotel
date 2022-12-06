@@ -1,4 +1,4 @@
-# HauntedHotel
+# Haunted Hotel
 Our game consists of a player gathering keys to escape the haunted hotel. In order to gather these keys, the player will complete various tasks in 3 thrilling levels with a limited number of lives. The player will be given 3 lives at the start of each level, and there will be obstacles such as poisonous drinks or green goblins that may cause the player to lose a life. The player must complete all the levels without running out of lives to escape the haunted hotel.
 
 In the first level, the player is tasked with collecting objects to clean up a mysterious bloody mess on the bathroom floor. Prior to cleaning the mess, they will need to obtain 3 cleaning supplies -  a mop, cleaning solution, and a bucket. After collecting all the items, the player obtains a key and can then travel to the next room to clean the mess. After cleaning up the mess, the player obtains another key to move to the next level.
